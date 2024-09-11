@@ -1,0 +1,12 @@
+{
+    "exec": {
+      "Strong": "Hey {name}, I hope you've been doing well! I wanted to reach out to see if you'd be interested in exploring potential collaboration opportunities. I think your role as {role} at {company} aligns perfectly with what we're working on. Let me know if you'd like to chat further!",
+      "Moderate": "Hey {name}, it's been a while! I wanted to reconnect and explore ways we might collaborate, given your leadership role at {company}. Would love to hear your thoughts!",
+      "Weak": "Hi {name}, I noticed your role as {role} at {company}, and I thought it might be interesting to explore collaboration opportunities. Let me know if you'd like to connect!"
+    },
+    "non-exec": {
+      "Strong": "Hi {name}, it's been a while since we last spoke! I wanted to reach out and catch up on your recent work at {company}. I'm sure there might be some ways we could collaborate in the future.",
+      "Moderate": "Hi {name}, I noticed your role as {role} at {company}, and I think we might have some shared interests. I'd love to connect and learn more about what you're working on!",
+      "Weak": "Hi {name}, I came across your profile and was impressed by your work at {company}. I'd love to connect and explore any opportunities to collaborate in the future!"
+    }
+  }
